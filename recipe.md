@@ -5,12 +5,12 @@
 - 1 3/4 cups granulated sugar
 - 3/4 cup unsweetened cocoa powder
 - 1/2 tsp ground cinnamon
-- ...
+- 5,000 mini chocolate chips
 
 ## Instructions:
 1. Preheat the oven to 375°F (190°C).
-2. In a large bowl, whisk together the flour, sugar, cocoa powder, and ground cinnamon.
-3. ...
+2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips and ground cinnamon.
+3. Put the bowl itself in the oven to get a nice round cake
 
 ## Additional Directions by Bob:
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavour.
